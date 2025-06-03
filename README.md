@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+_~Just a new hobby im trying to pick up~_
+
+
+
+
 <!--
 **ashbea/ashbea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
